@@ -1,0 +1,382 @@
+section.terceiroT {
+    margin: 0 15vw 0 15vw;
+}
+
+section.terceiroT h2 {
+    margin: 5vw 0 0vw 0;
+    text-align: center;
+    font-size: 4rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #4f1981;
+    text-decoration: underline 5px #4f1981;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+section.terceiroT p {
+    margin: 0vw 0 3vw 8vw;
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #4f1981;
+    font-weight: bold;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #000000;
+}
+
+section.terceiroT h3 {
+    margin: 0vw 0 0 5vw;
+    text-align: left;
+    font-size: 4rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #FEEDFE;
+    text-decoration: underline 5px #FEEDFE;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+
+}
+
+section.terceiroT h4 {
+    margin: 0vw 0 0vw 7vw;
+    text-align: left;
+    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #FEEDFE;
+    font-weight: bold;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #000000;
+}
+
+section.terceiroT div.botaoUm {
+    background-color: #4f1981;
+    border: 3px solid black;
+    border-radius: 30px;
+    padding: 0.5vw 1vw 0.5vw 1vw;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 2px 2px #000000;
+    text-shadow: 2px 2px 2px #000000;
+    margin: 3vw 0 0 0;
+}
+section.terceiroT div.botaoDois {
+    background-color: #4f1981;
+    border: 3px solid black;
+    border-radius: 30px;
+    padding: 0.5vw 1vw 0.5vw 1vw;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 2px 2px #000000;
+    text-shadow: 2px 2px 2px #000000;
+    margin: 3vw 0 0 0;
+}
+section.terceiroT div.botaoTres {
+    background-color: #4f1981;
+    border: 3px solid black;
+    border-radius: 30px;
+    padding: 0.5vw 1vw 0.5vw 1vw;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 2px 2px #000000;
+    text-shadow: 2px 2px 2px #000000;
+    margin: 3vw 0 0 0;
+}
+section.terceiroT div.botaoUm span {
+    font-size: 5rem;
+    color: #FEEDFE;
+    padding: 0.2vw 3vw 0 0vw;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000000;
+
+}
+section.terceiroT div.botaoDois span {
+    font-size: 5rem;
+    color: #FEEDFE;
+    padding: 0.2vw 3vw 0 0vw;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000000;
+
+}
+section.terceiroT div.botaoTres span {
+    font-size: 5rem;
+    color: #FEEDFE;
+    padding: 0.2vw 3vw 0 0vw;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000000;
+
+}
+
+section.terceiroT div.textoUm {
+    background-color: white;
+    border-radius: 0 0 30px 30px;
+    border: 3px black solid;
+    box-shadow: 2px 2px 2px #000000;
+    display: none;
+}
+
+section.terceiroT div.textoDois {
+    background-color: white;
+    border-radius: 0 0 30px 30px;
+    border: 3px black solid;
+    box-shadow: 2px 2px 2px #000000;
+    display: none;
+}
+
+section.terceiroT div.textoTres {
+    background-color: white;
+    border-radius: 0 0 30px 30px;
+    border: 3px black solid;
+    box-shadow: 2px 2px 2px #000000;
+    display: none;
+}
+
+section.terceiroT div.textoUm .maior{
+    margin-top: 2vw;
+}
+section.terceiroT div.textoUm .maior img{
+	height: 20vw;
+	width: 20vw;
+	margin: 0vw 1vw 2vw 1vw;
+    border: 3px black solid;
+    border-radius: 10px;
+}
+section.terceiroT div.textoUm p{
+	font-size: 1.5vw;
+    margin: 0;
+	text-align: justify;
+	color: #000000;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+section.terceiroT div.textoUm .pUm{
+    margin: 0 2vw 0 2vw;
+}
+section.terceiroT div.textoDois .maior{
+    margin-top: 2vw;
+}
+section.terceiroT div.textoDois .maior img{
+	height: 20vw;
+	width: 20vw;
+	margin: 0vw 1vw 2vw 1vw;
+    border: 3px black solid;
+    border-radius: 10px;
+}
+section.terceiroT div.textoDois p{
+	font-size: 1.5vw;
+    margin: 0;
+	text-align: justify;
+	color: #000000;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+section.terceiroT div.textoDois .pUm{
+    margin: 0 2vw 0 2vw;
+}
+
+section.terceiroT div p.fim {
+    text-align: right;
+    margin-right: 2vw;
+    margin-bottom: 2vw;
+    margin-top: 2vw;
+}
+
+section.terceiroT div.textoTres p{
+	font-size: 1vw;
+    margin: 0;
+	text-align: justify;
+	color: #000000;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+section.terceiroT div.textoTres h5{
+	font-size: 3vw;
+    margin-bottom: 1vw;
+	text-align: justify;
+	color: #4f1981;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+section.terceiroT div.textoTres h6{
+	font-size: 1.8vw;
+    margin: 1vw 0 1vw 0;
+	text-align: center;
+	color: #4f1981;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+section.terceiroT div.textoTres p.Equacao{
+	font-size: 1vw;
+    padding: 1vw 0.5vw 1vw 0.5vw;
+    background-color: #4f1981;
+    margin: 0;
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 10px 0 10px 0;
+    border: 3px black solid;
+}
+
+section.terceiroT div.textoTres{
+    padding: 2vw;
+}
+
+section.terceiroT div.textoTres .pUm{
+    margin: 0 2vw 0 0vw;
+    width: 300%;
+    padding: 1vw;
+    border: 3px black solid;
+    border-radius: 30px;
+    box-shadow: 2px 2px 2px #000000;
+}
+section.terceiroT div.textoTres .pDois{
+    width: 300%;
+    padding: 1vw;
+    border: 3px black solid;
+    border-radius: 30px;
+    box-shadow: 2px 2px 2px #000000;
+
+}
+section.terceiroT div.textoTres p.fim {
+    font-size: 1.5vw;
+    text-align: right;
+    margin-right: 0vw;
+    margin-bottom: 0vw;
+    margin-top: 2vw;
+    margin-left: 0;
+}
+section.terceiroT div.textoTres span {
+	padding: 3px 5px 3px 5px;
+    background-color: #4f1981;
+    color: #FEEDFE;
+    border-radius: 30px;
+    border: #000000 2px solid;
+	font-family: 'Times New Roman', Times, serif;
+}
+section.terceiroT div.textoTres .pDois ul li{
+    margin-top: 1vw;
+    margin-bottom: 0;
+}
+section.terceiroT div.textoTres ul li{
+    margin-bottom: 1vw;
+	text-align: justify;
+	color: #000000;
+    font-weight: bold;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+footer{
+    margin-top: 5vw;
+}
+
+@media (max-width: 600px) {
+    section.terceiroT {
+        margin: 0 5vw 0 5vw;
+    }
+
+    section.terceiroT h2 {
+        font-size: 3rem;
+    }
+
+    section.terceiroT h3 {
+        font-size: 3rem;
+        -webkit-text-stroke-width: 1px;
+
+    }
+
+    section.terceiroT h4 {
+        font-size: 1rem;
+    }
+
+    
+    section.terceiroT div.textoUm .maior {
+        display: block;
+    }
+
+    section.terceiroT div.textoUm .maior img {
+        height: 50vw;
+        width: 100%;
+        margin: 0;
+    }
+
+    section.terceiroT div.textoUm p {
+        font-size: 1rem;
+    }
+
+    section.terceiroT div.textoUm .pUm {
+        margin: 0 2vw 0 2vw;
+    }
+    section.terceiroT div.textoDois .maior {
+        display: block;
+    }
+
+    section.terceiroT div.textoDois .maior img {
+        height: 50vw;
+        width: 100%;
+        margin: 0;
+    }
+
+    section.terceiroT div.textoDois p {
+        font-size: 1rem;
+    }
+
+    section.terceiroT div.textoDois .pUm {
+        margin: 0 2vw 0 2vw;
+    }
+
+    section.terceiroT div p.fim {
+        text-align: right;
+        margin-right: 2vw;
+        margin-top: 2vw;
+        font-size: 1.5rem;
+    }
+    ection.terceiroT div p#fim {
+        text-align: right;
+        margin-right: 2vw;
+        margin-top: 2vw;
+        font-size: 1.5rem;
+    }
+    section.terceiroT div.textoTres .maior {
+        display: block;
+    }
+
+    section.terceiroT div.textoTres p{
+        font-size: 1rem;
+    }
+    
+    section.terceiroT div.textoTres h5{
+        font-size: 2rem;
+    }
+    section.terceiroT div.textoTres h6{
+        font-size: 1.5rem;
+    }
+    section.terceiroT div.textoTres p.Equacao{
+        font-size: 1rem;
+    }
+    
+    section.terceiroT div.textoTres .pUm{
+        margin: 0 0vw 0 0vw;
+        width: 96%;
+    }
+    section.terceiroT div.textoTres .pDois{
+        width: 96%;
+    
+    }
+    section.terceiroT div.textoTres p.fim {
+        font-size: 1.5rem;
+    }
+    
+    section.terceiroT div.textoTres .pDois ul li{
+        margin-top: 3vw;
+        margin-bottom: 0;
+    }
+    section.terceiroT div.textoTres ul li{
+        margin-bottom: 3vw;
+        text-align: justify;
+        color: #000000;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    }
+}

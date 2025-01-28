@@ -1,0 +1,596 @@
+/*===========================
+segunda
+==========================*/
+section.celulas {
+    margin: 0 15vw 0 15vw;
+}
+
+section.celulas h2 {
+    margin: 5vw 0 0vw 0;
+    text-align: center;
+    font-size: 4rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #4f1981;
+    text-decoration: underline 5px #4f1981;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+
+section.celulas p {
+    margin: 0vw 0 3vw 8vw;
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #4f1981;
+    font-weight: bold;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #000000;
+}
+
+section.celulas h3 {
+    margin: 0vw 0 0 5vw;
+    text-align: left;
+    font-size: 4rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #FEEDFE;
+    text-decoration: underline 5px #FEEDFE;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+
+}
+
+section.celulas h4 {
+    margin: 0vw 0 0vw 7vw;
+    text-align: left;
+    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #FEEDFE;
+    font-weight: bold;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #000000;
+}
+
+section.celulas div.botaoUm {
+    background-color: #4f1981;
+    border: 3px solid black;
+    border-radius: 30px;
+    padding: 0.5vw 1vw 0.5vw 1vw;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 2px 2px #000000;
+    text-shadow: 2px 2px 2px #000000;
+    margin: 3vw 0 0 0;
+}
+
+section.celulas div.botaoDois {
+    background-color: #4f1981;
+    border: 3px solid black;
+    border-radius: 30px;
+    padding: 0.5vw 1vw 0.5vw 1vw;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 2px 2px #000000;
+    text-shadow: 2px 2px 2px #000000;
+    margin: 3vw 0 0 0;
+}
+
+section.celulas div.botaoTres {
+    background-color: #4f1981;
+    border: 3px solid black;
+    border-radius: 30px;
+    padding: 0.5vw 1vw 0.5vw 1vw;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 2px 2px #000000;
+    text-shadow: 2px 2px 2px #000000;
+    margin: 3vw 0 0 0;
+}
+
+section.celulas div.botaoUm span {
+    font-size: 5rem;
+    color: #FEEDFE;
+    padding: 0.2vw 3vw 0 0vw;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000000;
+
+}
+
+section.celulas div.botaoDois span {
+    font-size: 5rem;
+    color: #FEEDFE;
+    padding: 0.2vw 3vw 0 0vw;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000000;
+
+}
+
+section.celulas div.botaoTres span {
+    font-size: 5rem;
+    color: #FEEDFE;
+    padding: 0.2vw 3vw 0 0vw;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000000;
+
+}
+
+section.celulas div.textoDois {
+    background-color: white;
+    border-radius: 0 0 30px 30px;
+    border: 3px black solid;
+    box-shadow: 2px 2px 2px #000000;
+    display: none;
+}
+
+section.celulas div.textoDois p {
+    padding: 2vw 0 0 0;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #4f1981;
+    margin: 0 0 2vw 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #000000;
+}
+
+section.celulas div.textoDois div.pUm {
+    margin: 0vw 2vw 0 2vw;
+}
+
+section.celulas div.textoDois div.pUm img {
+    height: 20vw;
+    width: 30vw;
+}
+
+section.celulas div.textoDois div.pUm h5 {
+    padding: 2vw 0 0 0;
+    font-size: 2rem;
+    color: #4f1981;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #000000;
+}
+
+section.celulas div.textoDois div.pUm ul li {
+    font-size: 1.3rem;
+    margin: 0.8vw 0 0 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+section.celulas div.textoDois div.pUm .divUm {
+    margin: 0 1vw 0 0;
+    background-color: white;
+    padding: 2vw 1vw 2vw 1vw;
+    border: #000000 3px solid;
+    border-radius: 30px;
+    box-shadow: 2px 2px 2px #000000;
+}
+
+section.celulas div.textoDois div.pUm span {
+    padding: 2px 5px 2px 5px;
+    background-color: #4f1981;
+    color: #FEEDFE;
+    border-radius: 30px;
+    border: #414141 2px solid;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section.celulas div.textoDois div.pUm .divDois {
+    background-color: white;
+    padding: 2vw 1vw 2vw 1vw;
+    border: #000000 3px solid;
+    border-radius: 30px;
+    box-shadow: 2px 2px 2px #000000;
+}
+
+section.celulas div.textoDois div.pDois {
+    margin: 0 2vw 0 2vw;
+}
+
+section.celulas div.textoDois div.pDois h3 {
+    margin: 2vw 0 2vw 0;
+    text-align: center;
+    font-size: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #4f1981;
+    text-decoration: underline 5px #4f1981;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+
+section.celulas div.textoDois div.pDois p {
+    text-align: left;
+    font-size: 1.2rem;
+    color: #4f1981;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+section.celulas div.textoDois div.pDois h5 {
+    font-size: 1.5rem;
+    color: #4f1981;
+    font-weight: bold;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #000000;
+}
+
+section.celulas div.textoDois div.pDois .direita h5 {
+    text-align: right;
+}
+
+section.celulas div.textoDois div.pDois .direita p {
+    text-align: right;
+    margin: 0 0vw 0 10vw;
+}
+
+section.celulas div.textoDois div.pDois span {
+    padding: 5px 15px 5px 20px;
+    background-color: #4f1981;
+    color: #FEEDFE;
+    border-radius: 70px;
+    border: #414141 2px solid;
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section.celulas div.textoDois div.pDois .um {
+    margin: 2vw 3vw 0 2vw;
+}
+
+section.celulas div.textoDois div.pDois.dois {
+    margin: 0 2vw 0 3vw;
+}
+
+section.celulas div.textoDois div.pDois .borda .dum p {
+    margin: 0 10vw 0 0vw;
+    color: white;
+}
+
+section.celulas div.textoDois div.pDois .borda .um span {
+    background-color: white;
+    color: #414141;
+}
+
+section.celulas div.textoDois div.pDois .borda .dum h5 {
+    color: white;
+    text-align: left;
+}
+
+section.celulas div.textoDois div.pDois .tres {
+    margin: 1.5vw 3vw 0 2vw;
+}
+
+section.celulas div.textoDois div.pDois .maior .dtres p {
+    margin: 0 10vw 0 0vw;
+    color: white;
+}
+
+section.celulas div.textoDois div.pDois .maior .tres span {
+    background-color: white;
+    color: #414141;
+}
+
+section.celulas div.textoDois div.pDois .maior .dtres h5 {
+    color: white;
+    text-align: left;
+}
+
+section.celulas div.textoDois div.pDois .quatro {
+    margin: 1.5vw 2vw 0 3vw;
+}
+
+section.celulas div.textoDois div.pDois .cinco {
+    margin: 0 3vw 0 2vw;
+}
+
+section.celulas div.textoDois div.pDois .dcinco p {
+    margin: 0 10vw 0 0vw;
+    color: white;
+}
+
+section.celulas div.textoDois div.pDois .borda2 .cinco span {
+    background-color: white;
+    color: #414141;
+}
+
+section.celulas div.textoDois div.pDois .borda2 .dcinco h5 {
+    color: white;
+    text-align: left;
+}
+
+section.celulas div.textoDois div.pDois .borda2 .dcinco p {
+    margin: 0 10vw 0 0vw;
+    color: white;
+}
+
+section.celulas div.textoDois div.pDois .maior {
+    background-color: #4f1981;
+    padding: 2vw;
+}
+
+section.celulas div.textoDois div.pDois .maior2 {
+    display: flex;
+    background-color: #ffffff;
+    padding: 2vw;
+}
+
+section.celulas div.textoDois div.pDois .grande {
+    border: #414141 3px solid;
+    border-radius: 30px;
+    box-shadow: 2px 2px 2px #000000;
+}
+
+section.celulas div.textoDois div.pDois .borda {
+    display: flex;
+    background-color: #4f1981;
+    padding: 2vw;
+    border-top-left-radius: 27px;
+    border-top-right-radius: 27px;
+}
+
+section.celulas div.textoDois div.pDois .borda2 {
+    display: flex;
+    background-color: #4f1981;
+    padding: 2vw;
+    border-bottom-left-radius: 27px;
+    border-bottom-right-radius: 27px;
+    box-shadow: 2px 2px 2px #000000;
+}
+
+section.celulas div.textoDois p#fim {
+    text-align: right;
+    margin-right: 2vw;
+    margin-top: 0vw;
+}
+
+section.celulas div p#fim {
+    text-align: right;
+    margin-right: 2vw;
+    margin-top: 2vw;
+}
+
+section.celulas div.textoUm {
+    background-color: #ffffff;
+    border-radius: 0 0 30px 30px;
+    border: 3px black solid;
+    box-shadow: 2px 2px 2px #000000;
+    padding: 2vw 0 2vw 0;
+    display: none;
+}
+
+section.celulas div.textoUm .maior img {
+    height: 25vw;
+    width: 25vw;
+    margin: 0vw 1vw 0 1vw;
+    border: 3px black solid;
+    border-radius: 10px;
+}
+
+section.celulas div.textoUm p {
+    font-size: 1.5vw;
+    margin: 0;
+    text-align: justify;
+    color: #000000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+
+section.celulas div.textoUm .pUm {
+    margin: 0 2vw 0 2vw;
+}
+
+section.celulas div.textoTres {
+    background-color: white;
+    border-radius: 0 0 30px 30px;
+    border: 3px black solid;
+    box-shadow: 2px 2px 2px #000000;
+    display: none;
+
+}
+
+section.celulas div.textoTres p {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #4f1981;
+    margin: 0 0 5vw 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+    margin: 2vw 2vw 2vw 0;
+}
+
+section.celulas div.textoTres h4 {
+    margin: 0 0 0vw 0;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #4f1981;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+
+section.celulas.maior {
+    margin: 0 0 2vw 0;
+}
+
+section.celulas div.textoTres .escrita h5 {
+    margin: 0 0 0 1vw;
+    text-align: justify;
+    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #4f1981;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+
+section.celulas div.textoTres .escrita p {
+    text-align: justify;
+    color: #000000;
+    -webkit-text-stroke-width: 0px;
+    font-size: 1rem;
+    margin: 0 0 0 1vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+section.celulas div.textoTres span {
+    padding: 2px 5px 2px 5px;
+    background-color: #4f1981;
+    color: #FEEDFE;
+    border-radius: 30px;
+    border: #000000 2px solid;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section.celulas div.textoTres .grande1 {
+    margin: 0 1vw 0 2vw;
+    background-color: white;
+    padding: 2vw 1vw 2vw 1vw;
+    border-radius: 30px;
+    border: #000000 3px solid;
+    box-shadow: 2px 2px 2px #000000;
+
+}
+
+section.celulas div.textoTres .grande2 {
+    background-color: white;
+    padding: 2vw 1vw 2vw 1vw;
+    border-radius: 30px;
+    border: #000000 3px solid;
+    margin: 0 2vw 0 0;
+    box-shadow: 2px 2px 2px #000000;
+
+}
+
+section.celulas div.textoTres img {
+    height: 20vw;
+    width: 30vw;
+    margin: 0 0 0vw 0;
+}
+
+footer {
+    margin-top: 5vw;
+}
+
+@media (max-width: 600px) {
+    section.celulas {
+        margin: 0 5vw 0 5vw;
+    }
+
+    section.celulas h2 {
+        font-size: 3rem;
+    }
+
+    section.celulas h3 {
+        font-size: 3rem;
+        -webkit-text-stroke-width: 1px;
+
+    }
+
+    section.celulas h3.organelas {
+        font-size: 2.5rem;
+        -webkit-text-stroke-width: 0.5px;
+
+    }
+
+    section.celulas h4 {
+        font-size: 1rem;
+    }
+
+    section.celulas div.textoDois .pUm .maior {
+        display: block;
+    }
+
+    section.celulas div.textoDois div.pUm img {
+        height: 40vw;
+        width: 100%;
+    }
+
+
+    section.celulas div.textoDois div.pUm ul li {
+        font-size: 1rem;
+    }
+
+    section.celulas div.textoDois div.pUm .divUm {
+        margin-bottom: 2vw;
+    }
+
+    section.celulas div.textoDois div.pDois h3 {
+        font-size: 2rem;
+    }
+
+    section.celulas div.textoDois div.pDois p {
+        font-size: 1rem;
+    }
+
+    section.celulas div.textoDois div.pDois span {
+        padding: 5px 10px 5px 10px;
+        border-radius: 100%;
+    }
+
+    section.celulas div.textoUm .maior {
+        display: block;
+    }
+
+    section.celulas div.textoUm .maior img {
+        height: 50vw;
+        width: 100%;
+        margin: 0;
+    }
+
+    section.celulas div.textoUm p {
+        font-size: 1rem;
+    }
+
+    section.celulas div.textoUm .pUm {
+        margin: 0 2vw 0 2vw;
+    }
+
+    section.celulas div p#fim {
+        text-align: right;
+        margin-right: 2vw;
+        margin-top: 2vw;
+        font-size: 1.5rem;
+    }
+    section.celulas div.textoTres .maior{
+        display: block;
+    }
+
+    section.celulas div.textoTres p {
+        text-align: center;
+        font-size: 1.3rem;
+    }
+    
+    section.celulas div.textoTres h4 {
+        font-size: 2rem;
+    }
+    section.celulas div.textoTres h5 {
+        font-size: 1.5rem;
+    }
+    
+    section.celulas.maior {
+        margin: 0 0 2vw 0;
+    }
+
+    section.celulas div.textoTres img {
+        height: 40vw;
+        width: 100%;
+        margin: 0 0 0vw 0;
+    }
+    section.celulas div.textoTres .grande1 .maior{
+        display: flex;
+    
+    }
+    
+    section.celulas div.textoTres .grande2 .maior {
+        display: flex;
+    
+    }
+    section.celulas div.textoTres .grande2{
+        margin: 2vw 2vw 0 2vw;
+    }
+    section.celulas div.textoTres .grande1{
+        margin: 0vw 2vw 0 2vw;
+    }
+}
